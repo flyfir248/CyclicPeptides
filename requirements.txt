@@ -1,0 +1,24 @@
+# Web framework
+fastapi
+uvicorn[standard]
+pydantic
+
+# Cyclic peptide library
+cyclicpeptide
+
+# Cheminformatics (cyclicpeptide dependency)
+rdkit
+
+# ML / deep learning (used by transformer modules)
+torch
+torch-geometric
+
+# Scientific computing
+numpy
+scipy
+pandas
+scikit-learn
+
+# Misc utilities
+requests
+tqdm
